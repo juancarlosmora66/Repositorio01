@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Estudio Fotográfico Fotocol </title>
+	</head>
+	<body>
+	   <h1> Bienvenido al Estudio Fotografico </h1>
+           <h2> Aqui podras ver trabajos de Fotografia </h2>
+ 	</body>
+    
+
+</html>
